@@ -1,7 +1,7 @@
-#JOBPORTAL:
+# JOBPORTAL:
 This is a job portal website developed using HTML, CSS, and JavaScript. The website serves as a platform for job seekers to search for employment opportunities and for employers to post job listings.
 
-#Features:
+# Features:
 1.User Authentication: Users can create accounts, log in, and manage their profiles.
 
 2.Job Search: Job seekers can search for job listings based on various criteria such as job title, location, and keywords.
@@ -14,7 +14,8 @@ This is a job portal website developed using HTML, CSS, and JavaScript. The webs
 
 6.Application Process: Job seekers can apply for jobs directly through the website, and employers can manage applications from their dashboard.
 
-#Technologies Used
+# Technologies Used:
+
 HTML5
 CSS
 JavaScript
